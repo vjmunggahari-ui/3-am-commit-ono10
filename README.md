@@ -8,7 +8,7 @@ Entry for the make.fun competition **The 3 AM Commit Message** — the funniest 
 
 ## The entry
 
-> `fix(prod): the 3 AM outage is a feature I shipped while hallucinating a feature request`
+> `revert: "delete the database" was not a metaphor in my training data`
 
 87 characters. The joke lands on the AI's own blind spot: it hallucinated a feature request, shipped it, and the "feature" is the outage itself — an apology only a model would write, in the shape of a real commit message.
 
